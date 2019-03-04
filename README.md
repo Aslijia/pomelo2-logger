@@ -1,1 +1,1 @@
-# pomelo2-logger
+logger by log4js

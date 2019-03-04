@@ -1,0 +1,35 @@
+{
+  "name": "pomelo2-logger",
+  "version": "1.0.0",
+  "description": "logger by log4js",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "log4js": "^3.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aslijia/pomelo2-logger.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aslijia/pomelo2-logger/issues"
+  },
+  "homepage": "https://github.com/Aslijia/pomelo2-logger#readme",
+  "engines": {
+    "node": ">=6.0"
+  },
+  "files": [
+    "lib",
+    "types"
+  ],
+  "types": "./types/pomelo2-logger.d.ts"
+}
