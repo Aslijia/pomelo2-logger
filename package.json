@@ -1,13 +1,13 @@
 {
   "name": "pomelo2-logger",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "logger by log4js",
   "main": "index.js",
   "directories": {
     "lib": "lib"
   },
   "dependencies": {
-    "log4js": "^3.0.6"
+    "log4js": "^5.1.0"
   },
   "devDependencies": {},
   "scripts": {
