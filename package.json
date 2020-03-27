@@ -1,6 +1,6 @@
 {
   "name": "pomelo2-logger",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "description": "logger by log4js",
   "main": "index.js",
   "directories": {
