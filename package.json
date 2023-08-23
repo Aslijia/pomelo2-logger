@@ -1,36 +1,36 @@
 {
-  "name": "pomelo2-logger",
-  "version": "1.1.5",
-  "description": "logger by log4js",
-  "main": "index.js",
-  "directories": {
-    "lib": "lib"
-  },
-  "dependencies": {
-    "error-stack-parser": "^2.0.6",
-    "log4js": "^5.3.0"
-  },
-  "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Aslijia/pomelo2-logger.git"
-  },
-  "keywords": [],
-  "author": "aslijia",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Aslijia/pomelo2-logger/issues"
-  },
-  "homepage": "https://github.com/Aslijia/pomelo2-logger#readme",
-  "engines": {
-    "node": ">=6.0"
-  },
-  "files": [
-    "lib",
-    "types"
-  ],
-  "types": "./types/pomelo2-logger.d.ts"
+    "name": "pomelo2-logger",
+    "version": "1.1.6",
+    "description": "logger by log4js",
+    "main": "index.js",
+    "directories": {
+        "lib": "lib"
+    },
+    "dependencies": {
+        "error-stack-parser": "^2.0.6",
+        "log4js": "^5.3.0"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Aslijia/pomelo2-logger.git"
+    },
+    "keywords": [],
+    "author": "aslijia",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Aslijia/pomelo2-logger/issues"
+    },
+    "homepage": "https://github.com/Aslijia/pomelo2-logger#readme",
+    "engines": {
+        "node": ">=6.0"
+    },
+    "files": [
+        "lib",
+        "types"
+    ],
+    "types": "./types/pomelo2-logger.d.ts"
 }
